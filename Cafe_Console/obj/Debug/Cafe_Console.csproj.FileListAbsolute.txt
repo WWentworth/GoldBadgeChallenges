@@ -1,0 +1,10 @@
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.AssemblyReference.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe.config
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\bin\Debug\Cafe_Console.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\bin\Debug\Cafe_Repository.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\bin\Debug\Cafe_Repository.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.CopyComplete
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\obj\Debug\Cafe_Console.exe
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Cafe_Console\obj\Debug\Cafe_Console.pdb
