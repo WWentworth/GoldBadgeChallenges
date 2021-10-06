@@ -17,11 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Green_Plan_Repository", "Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Green_Plan_POCO", "Green_Plan_POCO\Green_Plan_POCO.csproj", "{706E0E01-FE20-475E-A1D6-B8A939BD1F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Console", "Badges\Outings_Console.csproj", "{19A62D6F-DF69-4CD1-88BE-32C15A1D21AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Console", "Outings\Outings_Console.csproj", "{19A62D6F-DF69-4CD1-88BE-32C15A1D21AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Test", "Badges_Test\Outings_Test.csproj", "{AABFE0F8-9E20-4856-90CF-CD3A6158677C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Test", "Outings_Test\Outings_Test.csproj", "{AABFE0F8-9E20-4856-90CF-CD3A6158677C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Repository", "Badges_Repository\Outings_Repository.csproj", "{7EE9BED8-2257-4AF6-8FC4-152BBE6670F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outings_Repository", "Outings_Repository\Outings_Repository.csproj", "{7EE9BED8-2257-4AF6-8FC4-152BBE6670F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
