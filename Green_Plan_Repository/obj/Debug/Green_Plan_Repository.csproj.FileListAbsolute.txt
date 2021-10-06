@@ -1,0 +1,9 @@
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\bin\Debug\Green_Plan_Repository.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\bin\Debug\Green_Plan_Repository.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\bin\Debug\Green_Plan_POCO.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\bin\Debug\Green_Plan_POCO.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\obj\Debug\Green_Plan_Repository.csproj.AssemblyReference.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\obj\Debug\Green_Plan_Repository.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\obj\Debug\Green_Plan_Repository.csproj.CopyComplete
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\obj\Debug\Green_Plan_Repository.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_Repository\obj\Debug\Green_Plan_Repository.pdb

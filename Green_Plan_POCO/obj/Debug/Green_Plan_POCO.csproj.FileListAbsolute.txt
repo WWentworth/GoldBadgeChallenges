@@ -1,0 +1,6 @@
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\bin\Debug\Green_Plan_POCO.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\bin\Debug\Green_Plan_POCO.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\obj\Debug\Green_Plan_POCO.csproj.AssemblyReference.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\obj\Debug\Green_Plan_POCO.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\obj\Debug\Green_Plan_POCO.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_POCO\obj\Debug\Green_Plan_POCO.pdb

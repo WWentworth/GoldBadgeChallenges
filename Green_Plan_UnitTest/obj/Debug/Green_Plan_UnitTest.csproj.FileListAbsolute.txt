@@ -1,0 +1,14 @@
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_UnitTest.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_UnitTest.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.csproj.AssemblyReference.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.csproj.CopyComplete
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.pdb
