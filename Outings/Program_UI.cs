@@ -24,6 +24,7 @@ namespace Outings
             bool isRunning = true;
             while (isRunning)
             {
+                Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("Select a numeric response:\n" +
                     "1.List All Outings\n" +
                     "2.Add An Outing\n" +
@@ -76,12 +77,14 @@ namespace Outings
             Console.Clear();
             foreach(Event outing in listOfOutings)
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Outing Number:{outing.ID}\n" +
                     $"Outing Type:{outing.Outing}\n" +
                     $"Date:{outing.Date}\n" +
                     $"Attendence:{outing.Attendence}\n" +
                     $"Cost Per Employee:{outing.PersonCost}\n" +
                     $"Event Cost: {outing.EventCost}\n");
+                Console.ResetColor();
             }
         }
         //find the cost of all outings - multiple attendence by PersonCost, sum numbers
@@ -95,7 +98,9 @@ namespace Outings
                 totalEventCost += outing.EventCost;
 
             }
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Total cost of all outings is {totalEventCost}\n");
+            Console.ResetColor();
         }
         //find the cost of outing by type
 
@@ -106,9 +111,10 @@ namespace Outings
             List<Event> listOfOutings = _outing.GetOutingList();
             decimal totalCostByType = 0;
             Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Red;
             totalCostByType = listOfOutings.Where(outing => outing.Outing.Equals(outingType)).Sum(outing => outing.EventCost);
             Console.WriteLine($"Total cost of {outingType} outings is {totalCostByType}\n");
-
+            Console.ResetColor();
         }
         private void SeedOutingList()
         {

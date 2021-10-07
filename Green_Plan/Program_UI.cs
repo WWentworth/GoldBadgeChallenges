@@ -24,6 +24,7 @@ namespace Green_Plan
             bool isRunning = true;
             while (isRunning)
             {
+                Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("Select the numeric option from the menu:\n" +
                     "1.Add a New Car\n" +
                     "2.View Cars\n" +
@@ -71,6 +72,7 @@ namespace Green_Plan
         }
         private void CreateNewCar()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Car newCar = new Car();
             Console.Clear();
             Console.WriteLine("Please enter the Car's Make:");
@@ -83,6 +85,7 @@ namespace Green_Plan
             newCar.Horsepower = int.Parse(Console.ReadLine());
             Console.WriteLine("Please enter the Car's Safety Rating Value (if 5 stars put 5)");
             newCar.SafetyRating = decimal.Parse(Console.ReadLine());
+            Console.ResetColor();
             _carRepo.AddCarToList(newCar);
         }
         private void DisplayCars()
@@ -91,12 +94,14 @@ namespace Green_Plan
             Console.Clear();
             foreach (Car car in listOfCars)
             {
-                Console.WriteLine($"ID:{car.ID}\n" +
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"Car ID:{car.ID}\n" +
                     $"Make:{car.Make}\n" +
                     $"Model:{car.Model}\n" +
                     $"MSRP:{car.MSRP}\n" +
                     $"Horsepower:{car.Horsepower}\n" +
                     $"Safety Rating:{car.SafetyRating}\n");
+                Console.ResetColor();
             }
         }
         private void UpdateExistingCar()
@@ -143,18 +148,22 @@ namespace Green_Plan
             Console.Clear();
             foreach (CarClass carClass in listOfCarClasses)
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"{carClass.Name}\n" +
                     $"Class ID:{carClass.ID}\n" +
                     $"Cars in Class:\n");
+                Console.ResetColor();
 
                 foreach (Car car in carClass.CarList)
                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine($"ID:{car.ID}\n" +
                         $"Make:{car.Make}\n" +
                         $"Model:{car.Model}\n" +
                         $"MSRP:{car.MSRP}\n" +
                         $"Horsepower:{car.Horsepower}\n" +
                         $"Safety Rating:{car.SafetyRating}\n");
+                    Console.ResetColor();
                 }
             }
         }

@@ -22,6 +22,7 @@ namespace Cafe_Console
             bool isRunning = true;
             while (isRunning)
             {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("Select a numerical menu option:\n" +
                     "1.Add a Meal\n" +
                     "2.View Menu\n" +
@@ -71,11 +72,13 @@ namespace Cafe_Console
             Console.Clear();
             foreach(Menu meal in listOfMeals)
             {
+                Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine($"Meal Number:{meal.ID}\n" +
                     $"Name:{meal.Name}\n" +
                     $"{meal.Description}\n" +
                     $"{meal.Ingredients}\n" +
                     $"{meal.Price}\n");
+                Console.ResetColor();
             }
         }
         private void DeleteExistingMeal()
