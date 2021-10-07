@@ -81,7 +81,7 @@ namespace Green_Plan
             newCar.MSRP = decimal.Parse(Console.ReadLine());
             Console.WriteLine("Please enter the Car's Horsepower");
             newCar.Horsepower = int.Parse(Console.ReadLine());
-            Console.WriteLine("Please enter the Car's Safety Rating Value (if 5 stars put 5");
+            Console.WriteLine("Please enter the Car's Safety Rating Value (if 5 stars put 5)");
             newCar.SafetyRating = decimal.Parse(Console.ReadLine());
             _carRepo.AddCarToList(newCar);
         }
@@ -144,7 +144,7 @@ namespace Green_Plan
             foreach (CarClass carClass in listOfCarClasses)
             {
                 Console.WriteLine($"{carClass.Name}\n" +
-                    $"ID:{carClass.ID}\n" +
+                    $"Class ID:{carClass.ID}\n" +
                     $"Cars in Class:\n");
 
                 foreach (Car car in carClass.CarList)

@@ -15,6 +15,7 @@ namespace Outings
         
         public void Run()
         {
+            SeedOutingList();
             MainMenu();
         }
 
@@ -108,6 +109,13 @@ namespace Outings
             totalCostByType = listOfOutings.Where(outing => outing.Outing.Equals(outingType)).Sum(outing => outing.EventCost);
             Console.WriteLine($"Total cost of {outingType} outings is {totalCostByType}\n");
 
+        }
+        private void SeedOutingList()
+        {
+            Event vent = new Event("golf", 20, 5m, DateTime.Now);
+            Event vent2 = new Event("bowling", 33, 5.50m, DateTime.Now);
+            _outing.AddOutingToList(vent);
+            _outing.AddOutingToList(vent2);
         }
     }
 }

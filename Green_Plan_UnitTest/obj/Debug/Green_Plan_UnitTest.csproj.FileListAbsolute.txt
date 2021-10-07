@@ -12,3 +12,7 @@ E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\De
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.csproj.CopyComplete
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.dll
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\obj\Debug\Green_Plan_UnitTest.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_POCO.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_Repository.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_POCO.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Green_Plan_UnitTest\bin\Debug\Green_Plan_Repository.pdb

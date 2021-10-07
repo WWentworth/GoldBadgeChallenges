@@ -49,11 +49,22 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Green_Plan_Car_UnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Green_Plan_CarClass_UnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Green_Plan_POCO\Green_Plan_POCO.csproj">
+      <Project>{706e0e01-fe20-475e-a1d6-b8a939bd1f3a}</Project>
+      <Name>Green_Plan_POCO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Green_Plan_Repository\Green_Plan_Repository.csproj">
+      <Project>{0cb3edde-a80b-412c-8736-4b4a494c7beb}</Project>
+      <Name>Green_Plan_Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

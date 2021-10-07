@@ -26,3 +26,5 @@ E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\obj\Debug\Out
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\obj\Debug\Outings_Test.csproj.CopyComplete
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\obj\Debug\Badges_Test.dll
 E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\obj\Debug\Badges_Test.pdb
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\bin\Debug\Badges_Repository.dll
+E:\ElevenFiftyProjects\C#Projects\GoldBadgeChallenges\Outings_Test\bin\Debug\Badges_Repository.pdb
